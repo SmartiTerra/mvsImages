@@ -1,5 +1,4 @@
 {
-  "response": {
 		"automation_id": "flx-1",
 		"module_id": "10.0.0.1",
 		"process_id": 20200424050031096,
@@ -59,4 +58,3 @@
 			}
 		}
 	}
-}
